@@ -36,14 +36,14 @@ metaDataFormat= "yaml"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
   icon = "img/logo.png"
   #quote = "A nice quote that you like that describes the beautiful person you are."
-  description= "A Phd Candidate in Computer Science. Main interests are Artificial Intelligence, Machine Learning, eXplainable AI, Deep Learning."
+  description= "A Phd candidate in Computer Science. Main interests are Artificial Intelligence, Machine Learning, eXplainable AI, Deep Learning."
   licenseUrl = ""
 
  # Social icons
 
   [[params.social]]
     name = "email"
-    url  = "lanfang.kong@telecom-paris.fr"
+    url  = "mailto:lanfang.kong@telecom-paris.fr"
 
   [[params.social]]
     name = "github"
@@ -51,7 +51,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/lanfang-kong-4798b6162/"
 
 [params.style]
   # add path to custom CSS files here
@@ -73,12 +73,7 @@ metaDataFormat= "yaml"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "post/"
-
-  [[menu.main]]
-    identifier = "cv"
-    name       = "CV"
-    url        = "cv"
+    url        = "post"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

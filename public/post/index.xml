@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lanfang Kong</title>
-    <link>https://examplesite.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Lanfang Kong</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://examplesite.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://examplesite.com/post/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/post/post/</guid>
+      <title>Posts</title>
+      <link>http://localhost:1313/post/post/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post/</guid>
       <description>&lt;p&gt;My previous blog: &lt;a href=&#34;https://galaxy-fangfang.github.io/&#34;&gt;galaxy-fangfang.github.io&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
